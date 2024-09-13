@@ -51,7 +51,7 @@ const Projects = () => {
                   rel='noopener noreferrer'
                   className='font-semibold text-blue-600'
                   >
-
+                    Visit Project
                 </Link>
                 <img 
                 src={arrow} 
