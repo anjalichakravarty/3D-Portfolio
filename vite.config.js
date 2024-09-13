@@ -6,7 +6,11 @@ export default defineConfig({
   plugins: [react()],
   assetsInclude: ['**/*.glb'],
   server: {
-    host: '127.0.0.1',
-    port: 8000
+    host: true,
+    port: 8000,
+    watch: {
+      usePolling: true,
+      interval: 100,
+    }
   }
 })
