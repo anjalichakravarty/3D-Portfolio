@@ -164,27 +164,27 @@ export const projects = [
         theme: 'btn-back-red',
         name: '3D Interior Walkthroughs',
         description: 'Created immersive detailed 3D walkthroughs that showcase detailed environments. These projects are designed to deliver visually engaging and interactive environments for users.',
-        link: 'https://github.com/adrianhajdin/pricewise',
+        link: 'https://drive.google.com/drive/folders/1rmfEnsj87oXgZP6_WmsdOQjNS5pL4TJA?usp=sharing',
     },
     {
         iconUrl: games,
         theme: 'btn-back-green',
         name: '3D/2D Games',
         description: 'Developed a series of mini 3D and 2D games using Unreal Engine and c++, showcasing creativity and technical skills in game design and development. These games feature: Simple yet engaging gameplay mechanics, vibrant visuals, offering dynamic player experiences, and intuitive controls.',
-        link: 'https://github.com/adrianhajdin/threads',
+        link: 'https://drive.google.com/drive/folders/1mxbIsKt8ZV0GxxKUOfB5efVeUeKYbMSi?usp=sharing',
     },
     {
         iconUrl: model,
         theme: 'btn-back-blue',
         name: '3D Content',
         description: 'Developed realistic 3D models and anamorphic content, showcasing detailed modeling and immersive visual effects. These projects emphasize technical precision and creativity in creating dynamic, engaging displays.',
-        link: 'https://github.com/adrianhajdin/project_next13_car_showcase',
+        link: 'https://drive.google.com/drive/folders/1MbZ8dIpHDbSiH3TK-9dsy3fXJrbcibEn?usp=sharing',
     },
     {
         iconUrl: clothes,
         theme: 'btn-back-pink',
         name: '3D Clothing Design',
         description: 'Created realistic 3D clothing using Marvelous Designer, focusing on accurate fabric simulation and detailed garment design. These pieces demonstrate a strong understanding of draping, tailoring, and dynamic simulations for high-quality visual results.',
-        link: 'https://github.com/adrianhajdin/social_media_app',
+        link: 'https://drive.google.com/drive/folders/1wsEZwQtKNqUdHMcHW6DAqjExza8Wcgim?usp=sharing',
     }
 ];
