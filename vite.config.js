@@ -8,6 +8,9 @@ export default defineConfig({
   assetsInclude: ['**/*.glb'],
   server: {
     host: true,
-    hmr: process.env.NODE_ENV !== 'production',
+    //hmr: process.env.NODE_ENV !== 'production',
+    hmr: {
+      overlay: false, // Disable HMR errors overlay
+    }
   }
 })
