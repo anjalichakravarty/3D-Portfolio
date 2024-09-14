@@ -7,11 +7,6 @@ export default defineConfig({
   assetsInclude: ['**/*.glb'],
   server: {
     host: true,
-    port: 8000,
     hmr: true,
-    watch: {
-      usePolling: true,
-      interval: 100,
-    }
   }
 })
